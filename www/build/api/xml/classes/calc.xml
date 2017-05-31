@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="calc" namespace="" name="calc" abstract="false" final="false" start="2" end="28">
+  <file path="C:/xampp/htdocs/www" file="calc.php" realpath="C:/xampp/htdocs/www/calc.php" size="465" time="2017-05-31T09:48:59+02:00" unixtime="1496216939" sha1="fb4b40f9382ad1a8880869abe7ede136efc484c3" relative="calc.php"/>
+  <method name="sum" start="4" end="7" abstract="false" final="false" static="true" visibility="public">
+    <parameter name="arg1" byreference="false" type="{unknown}"/>
+    <parameter name="arg2" byreference="false" type="{unknown}"/>
+  </method>
+  <method name="minus" start="12" end="15" abstract="false" final="false" static="true" visibility="public">
+    <docblock>
+      <description compact="Super commentaire trololo"/>
+    </docblock>
+    <parameter name="arg1" byreference="false" type="{unknown}"/>
+    <parameter name="arg2" byreference="false" type="{unknown}"/>
+  </method>
+  <method name="multi" start="17" end="20" abstract="false" final="false" static="true" visibility="public">
+    <parameter name="arg1" byreference="false" type="{unknown}"/>
+    <parameter name="arg2" byreference="false" type="{unknown}"/>
+  </method>
+  <method name="divid" start="22" end="26" abstract="false" final="false" static="true" visibility="public">
+    <parameter name="arg1" byreference="false" type="{unknown}"/>
+    <parameter name="arg2" byreference="false" type="{unknown}"/>
+  </method>
+</class>

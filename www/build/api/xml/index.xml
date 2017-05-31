@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="C:/xampp/htdocs/www">
+  <namespace name="">
+    
+  <class name="calc" src="calc.php" xml="classes/calc.xml"/></namespace>
+</index>
